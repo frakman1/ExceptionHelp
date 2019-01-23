@@ -1,1 +1,3 @@
+<img src="https://img.shields.io/badge/Say%20Thanks-!-1EAEDB.svg">
+
 Because you were going to do it anyway...
